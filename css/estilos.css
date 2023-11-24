@@ -1,0 +1,72 @@
+body{
+    margin: 0%;
+   
+}
+p{
+    font-size: 20px;
+}
+.Cambiatuvida{
+    padding: 0% 0% 10% 0%;
+    background-color: rgba(253, 167, 74, 1);
+    display: flex;
+    flex-wrap: wrap;
+}
+.galeria-port{
+    flex-grow: 1;
+    flex-basis: 200;
+    padding: 5%;
+}
+.Cambiatuvida h3 {
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+}
+.Encab{
+    display: grid;
+    justify-items: center;
+    background-color: rgba(253, 167, 74, 1);
+}
+.Encab h2{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+.partici{
+    display: flex;
+    flex-wrap: wrap;
+}
+.partici div{
+    flex-grow: 1;
+    flex-basis: 200;
+}
+.partici h1{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.partici img{
+    position: relative;
+    top: -200px;
+
+
+}
+.Bdonar{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: aliceblue;
+    border: 2px solid rgba(253, 167, 74, 1);
+    background-color: rgba(253, 167, 74, 1);
+    cursor: pointer;
+    padding: 20px 50px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+.Bunete{
+    
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: aliceblue;
+    border: 2px solid rgba(220, 2, 44, 1);
+    background-color:rgba(220, 2, 44, 1);
+    cursor: pointer;
+    padding: 20px 50px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
